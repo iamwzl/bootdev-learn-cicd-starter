@@ -7,9 +7,6 @@ import (
 
 func TestGetAPIKey(t *testing.T) {
 
-	t.Error("Intentionally broken test for CH2:L2")
-	return
-
 	// Test 1 - Valid Header
 	headerTest := http.Header{
 		"Authorization": []string{"ApiKey atestkey"},
