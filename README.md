@@ -1,4 +1,4 @@
-![badge for ch2:l4 assignment](https://github.com/iamwzl/bootdev-learn-cicd-starter/actions/workflows/ci/badge.svg?branch=addtests)
+![badge for ch2:l4 assignment](https://github.com/iamwzl/bootdev-learn-cicd-starter/actions/workflows/ci_test/badge.svg?branch=addtests)
 
 # learn-cicd-starter (Notely)
 
