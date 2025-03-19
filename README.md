@@ -1,5 +1,12 @@
-![badge for ch2:l4 assignment](https://github.com/iamwzl/bootdev-learn-cicd-starter/actions/workflows/ci_test/badge.svg)
+# [![Badge for ch2:l4 assignment displaying aciton status](https://github.com/iamwzl/bootdev-learn-cicd-starter/actions/workflows/ci.yml/badge.svg)](https://github.com/iamwzl/bootdev-learn-cicd-starter/actions/workflows/ci.yml) Boot.dev -- 21. Learn CI/CD
 
+![A logo representing git actions](https://storage.googleapis.com/qvault-webapp-dynamic-assets/course_assets/pcgPbf9.png)
+
+My work as part of the boot.dev Learn CI/CD course.
+
+[Check out boot.dev (with a referal from me)](https://wzl.to/boot.dev)  ***-or-*** [Check it out, without a referal](https://wzl.to/boot.dev_noref)
+
+- - -
 # learn-cicd-starter (Notely)
 
 This repo contains the starter code for the "Notely" application for the "Learn CICD" course on [Boot.dev](https://boot.dev).
