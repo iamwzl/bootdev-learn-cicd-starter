@@ -1,4 +1,5 @@
-# [![Badge for ch2:l4 assignment displaying aciton status](https://github.com/iamwzl/bootdev-learn-cicd-starter/actions/workflows/ci.yml/badge.svg)](https://github.com/iamwzl/bootdev-learn-cicd-starter/actions/workflows/ci.yml) Boot.dev -- 21. Learn CI/CD
+#  Boot.dev -- 21. Learn CI/CD
+![CI workflow status](https://github.com/iamwzl/bootdev-learn-cicd-starter/actions/workflows/ci.yml/badge.svg)    ![CD workflow status](https://github.com/iamwzl/bootdev-learn-cicd-starter/actions/workflows/cd.yml/badge.svg)
 
 ![A logo representing git actions](https://storage.googleapis.com/qvault-webapp-dynamic-assets/course_assets/pcgPbf9.png)
 
